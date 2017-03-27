@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Magic Eight Ball</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="intro">Ask the Magic 8 Ball a question! </string>
+    <string name="question_hint">Enter your question  </string>
+    <string name="button"> ASK AWAY!  </string>
+
+</resources>
